@@ -361,7 +361,7 @@ class TestInventoryAllocator(unittest.TestCase):
                          [{"jku": {"pear": 2, "kiwi": 1}}, {"dm": {"kiwi": 2, "pear": 2}},
                           {"hye": {"pear": 4, "kiwi": 3}}])
 
-    def test_case_12(self):
+    def test_case_11(self):
         # Number of shipments is reduced from if shipments were just allocated from the first warehouse and down.
         # Instead of shipping 1, 3, 2 apples from the first, second, and third warehouses, respectively, shipping
         # 3 apples from the second and 3 apples from the third warehouse reduces cost by reducing the number of
