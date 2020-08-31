@@ -1,4 +1,9 @@
 
+## To Run
+- Download inventory_allocator.py and test_inventory_allocator.py
+- Go to command prompt or terminal
+- Go to the directory containing inventory_allocator.py and test_inventory_allocator.py
+- Type "python -m unittest test_inventory_allocator.py"
 
 ## Problem
 
